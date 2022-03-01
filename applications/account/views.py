@@ -50,4 +50,4 @@ class ProfileUpdateView(generics.UpdateAPIView):
 
 
 # TODO: add forgot password logic
-# TODO: add product logic
+
